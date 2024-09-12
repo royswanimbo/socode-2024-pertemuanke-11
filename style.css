@@ -1,0 +1,16 @@
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2021/03/17/06/44/indonesian-6101613_1280.jpg);
+}
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: #f0e8e8;
+    text-decoration-color: rgb(221, 5, 185);
+}
+
+button {
+    color: #ee1010;
+}
